@@ -1,5 +1,5 @@
-This repository consists of searchng methods from data structures as below :
+This repository consists of search methods from data structures as below :
 
-1.Linear search
+##1.Linear search
 
-2.Binary search
+##2.Binary search
