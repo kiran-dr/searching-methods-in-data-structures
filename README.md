@@ -1,4 +1,4 @@
-This folder consists of searchng methods from data structures as below :
+This repository consists of searchng methods from data structures as below :
 
 1.Linear search
 
